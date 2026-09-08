@@ -1,0 +1,8 @@
+2026-09-07 17:21:09,564 - INFO - Application started.
+2026-09-07 17:21:21,461 - ERROR - CSV read failed - file not found: 'student.csv'
+2026-09-08 15:30:59,089 - INFO - Application started.
+2026-09-08 15:31:15,981 - INFO - Read Excel file 'student.xlsx'
+2026-09-08 15:33:18,826 - INFO - Wrote file 'students.txt'
+2026-09-08 15:35:32,135 - INFO - Wrote CSV file 'report.csv'
+2026-09-08 15:36:14,469 - INFO - Generated PDF report 'pdf report.pdf' from 'report.csv'
+2026-09-08 15:36:22,786 - INFO - Application closed.
